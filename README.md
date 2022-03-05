@@ -1,1 +1,2 @@
-# StudyingApps
+# My studying applications
+### By lilkhex
