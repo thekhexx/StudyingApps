@@ -1,0 +1,15 @@
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\bin\Debug\CipherApplication.exe.config
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\bin\Debug\CipherApplication.exe
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\bin\Debug\CipherApplication.pdb
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.Properties.Resources.resources
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.csproj.GenerateResource.cache
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.csproj.CoreCompileInputs.cache
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.exe
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.pdb
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\bin\Debug\Guna.UI2.dll
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.Controls.FilesList.resources
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.csproj.CopyComplete
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.SettingsForm.resources
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.csproj.AssemblyReference.cache
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\lilkh\source\repos\CipherApplication\CipherApplication\obj\Debug\CipherApplication.MainForm.resources
