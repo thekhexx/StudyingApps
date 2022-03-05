@@ -1,0 +1,10 @@
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\bin\Debug\BooksApp.exe.config
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\bin\Debug\BooksApp.exe
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\bin\Debug\BooksApp.pdb
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.csprojAssemblyReference.cache
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.BooksForm.resources
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.Properties.Resources.resources
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.csproj.GenerateResource.cache
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.csproj.CoreCompileInputs.cache
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.exe
+C:\Users\lilkh\source\repos\BooksApp\BooksApp\obj\Debug\BooksApp.pdb

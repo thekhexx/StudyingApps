@@ -1,0 +1,10 @@
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\bin\Debug\CarsApplication.exe.config
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\bin\Debug\CarsApplication.exe
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\bin\Debug\CarsApplication.pdb
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.csprojAssemblyReference.cache
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.CarsForm.resources
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.Properties.Resources.resources
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.csproj.GenerateResource.cache
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.csproj.CoreCompileInputs.cache
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.exe
+C:\Users\lilkh\source\repos\CarsApplication\CarsApplication\obj\Debug\CarsApplication.pdb
