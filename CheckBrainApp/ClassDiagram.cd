@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CheckBrainApp.FormMain">
+    <Position X="8.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgIABEwKCAAhBAAICKAAAoSAFACZoSAQIwAAAB1AAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.QuestionsBank">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAABAALAAAAAABAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>QuestionsBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.QuestionsBankQuestion">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IBACCAQAAACAAAAAoAAAACAACAAAEAAAQAAAAAAABAg=</HashCode>
+      <FileName>QuestionsBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.SelectedTest">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>SelectedTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.ThemeColor">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAACAAAAAAgA=</HashCode>
+      <FileName>ThemeColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.TimeToTest">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>TimeToTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.Forms.FormAbout">
+    <Position X="10.75" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAACCAAAACAAAAAAAAgAAAAAABAAA=</HashCode>
+      <FileName>Forms\FormAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.Forms.FormSelectTest">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAGAAAAUAAACAAEACAAEYAAAAgACQgQAAAAg=</HashCode>
+      <FileName>Forms\FormSelectTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.Forms.FormTesting">
+    <Position X="11.25" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QgCFQBIIACACiIEFDECSACUCACeQNQAAgEAIABAjAQU=</HashCode>
+      <FileName>Forms\FormTesting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.Forms.FormTheory">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAABAAgiAAAACAAEQAAAAwAAABAABAAA=</HashCode>
+      <FileName>Forms\FormTheory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.Forms.FormWait">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAABAACAAAAAAAACAAAACAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Forms\FormWait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBrainApp.Forms.SplashScreen">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAACABgACAAAACECAAAAAAAAAAAAiBAAI=</HashCode>
+      <FileName>Forms\SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<QuestionsBank>
+  <Question>
+      <QuestionType>Radiobutton</QuestionType>
+      <QuestionText>Кем являются почти все патогенные грибы?</QuestionText>
+      <Answers>Аэробы;Анаэробы;Микробы</Answers>
+      <RightAnswer>Аэробы</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Checkbox</QuestionType>
+      <QuestionText>Наиболее важные факторы роста грибов</QuestionText>
+      <Answers>Аминокислоты;Белки;Витамины </Answers>
+      <RightAnswer>Аминокислоты;Витамины</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Textbox</QuestionType>
+      <QuestionText>Какая среда более чётко выделяет цвет пигмента патогенных грибов</QuestionText>
+      <Answers></Answers>
+      <RightAnswer>Кислая</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Textbox</QuestionType>
+      <QuestionText>Что обычно не продуцируют патогенные грибы?</QuestionText>
+      <Answers>Экзотоксины</Answers>
+      <RightAnswer>Экзотоксины</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Checkbox</QuestionType>
+      <QuestionText>Разновидностью чего является микотоксикоз?</QuestionText>
+      <Answers>Пищевых отравлений; Патогенных грибов; Размножения микроорганизмов</Answers>
+      <RightAnswer>Пищевых отравлений</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Radiobutton</QuestionType>
+      <QuestionText>Какая оптимальная температура развития мицелиальных форм?</QuestionText>
+      <Answers>12°C;33-40°C;13-22°C;25-33°C;</Answers>
+      <RightAnswer>25-33°C</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Checkbox</QuestionType>
+      <QuestionText>Ч</QuestionText>
+      <Answers>Мама я гей;папа я гей;Абобус </Answers>
+      <RightAnswer>Мама я гей;папа я гей</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Textbox</QuestionType>
+      <QuestionText>Что вызывают патогенные грибы в организме хозяина? (ответ в именительном падеже)</QuestionText>
+      <Answers>гиперсенсибилизация</Answers>
+      <RightAnswer>гиперсенсибилизация</RightAnswer>
+
+  </Question>
+  <Question>
+      <QuestionType>Checkbox</QuestionType>
+      <QuestionText>Выраженным фунгицидным действием обладает</QuestionText>
+      <Answers>3 – 7 %-ная уксусная кислота;салициловая и бензойная кислоты (1 – 2 %-ные);5 %-ная хлорная известь;Перекись водорода (3 %-ная)</Answers>
+      <RightAnswer>3 – 7 %-ная уксусная кислота;салициловая и бензойная кислоты (1 – 2 %-ные);5 %-ная хлорная известь</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Сколько видов грибов являются загрязнителями пищевых продуктов? (ответ цифрой)</QuestionType>
+      <QuestionText>Укажите название прибора для увеличения ноги</QuestionText>
+      <Answers>20</Answers>
+      <RightAnswer>20</RightAnswer>
+
+  </Question>
+  <Question>
+      <QuestionType>Radiobutton</QuestionType>
+      <QuestionText>К какому роду грибов относится лизергиновая кислота</QuestionText>
+      <Answers>Claviceps purpurea;Penicillium;Aspergillus;Fusarium</Answers>
+      <RightAnswer>Claviceps purpurea</RightAnswer>
+  </Question>
+  <Question>
+      <QuestionType>Checkbox</QuestionType>
+      <QuestionText>В виде чего размножаются патогенные грибы?</QuestionText>
+      <Answers>Споры;Мицелии;Ветвлений </Answers>
+      <RightAnswer>Споры;Мицелии</RightAnswer>
+  </Question>
+  
+</QuestionsBank>

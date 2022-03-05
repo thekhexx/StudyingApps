@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CheckBrainApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Theory1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Систематика.html;Биология.html;Экология.html
+</Value>
+    </Setting>
+    <Setting Name="Test" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test.xml;test1.xml;test2.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
